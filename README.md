@@ -1,4 +1,4 @@
-Witam na stronie aplikacji służącej do doboru przekroju kabli.
+Witam na stronie aplikacji wspomagającej dobór przekroju kabli.
 
 ### Pobierz
 
