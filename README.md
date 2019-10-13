@@ -1,6 +1,8 @@
-Pobierz:
+Witam na stronie aplikacji służącej do doboru przekroju kabli.
 
-[KabelSelektor1.0.zip](KabelSelektor.zip)
+### Pobierz
+
+* [KabelSelektor1.0.zip](KabelSelektor.zip)
 
 
 
